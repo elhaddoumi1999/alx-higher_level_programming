@@ -12,11 +12,6 @@ working in the Python language. I update this repo with my learning progresses w
 
 ## Author :black_nib:
 
-* **EL HADDOUMI Mohammed** <[bdbaraban](https://github.com/elhaddoumi1999)>
+* **EL HADDOUMI Mohammed** <[Click](https://github.com/elhaddoumi1999)>
 
 
-<p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png"
-       alt="Holberton School logo"
-  >
-</p>
