@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#Auth: EL HADDOUMI Mohammed
 def divisible_by_2(my_list=[]):
     new = []
     for x in my_list:

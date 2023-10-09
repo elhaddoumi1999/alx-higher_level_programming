@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#Auth: EL HADDOUMI Mohammed
 def max_integer(my_list=[]):
     if my_list == []:
         return None
