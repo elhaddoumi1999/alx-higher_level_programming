@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#Auth: EL HADDOUMI Mohammed
 def add_tuple(tuple_a=(), tuple_b=()):
     y = ()
     for x in (tuple_a, tuple_b):
