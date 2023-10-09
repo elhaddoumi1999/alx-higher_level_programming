@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#Auth: EL HADDOUMI Mohammed
 def print_matrix_integer(matrix=[[]]):
     l = len(matrix)
     for x in range(l):
