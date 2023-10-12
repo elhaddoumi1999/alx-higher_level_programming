@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-def replace_in_list(my_list, idx, element):
-    if idx < 0 or idx > len(my_list) - 1:
-        return my_list
-    else:
-        my_list[idx] = element
-        return my_list
+def search_replace(my_list, search, replace):
+    def s_r_elm(elm):
+        return (elm if elm != search else replace)
+    return list(map(s_r_elm, my_list))
