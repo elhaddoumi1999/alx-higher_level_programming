@@ -11,6 +11,8 @@ working in the Python language. I update this repo with my learning progresses w
 * [0x03. Python - data_structures](./0x03-python-data_structures)
 * [0x04. Python - more_data_structures](./0x04-python-more_data_structures)
 * [0x05. Python - Exceptions](./0x05-python-exceptions)
+* [0x06. Python - Classes and Objects](./0x06-python-classes)
+
 ## Author :black_nib:
 
 * **EL HADDOUMI Mohammed** <[Click](https://github.com/elhaddoumi1999)>
