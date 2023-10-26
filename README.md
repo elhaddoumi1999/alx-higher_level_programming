@@ -18,7 +18,7 @@ scripting. The specific list of projects contained follows:
 
 ## Author :black_nib:
 
-* **EL HADDOUMI Mohammed** <[bdbaraban](https://github.com/elhaddoumi1999)>
+* **EL HADDOUMI Mohammed** <[EL HADDOUMI](https://github.com/elhaddoumi1999)>
 
 ## Acknowledgements :pray:
 
