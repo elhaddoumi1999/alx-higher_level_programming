@@ -21,6 +21,9 @@ scripting. The specific list of projects contained follows:
 * [0x0C. Python - Almost a circle](./0x0C-python-almost_a_circle)
 * [0x0D. SQL - Introduction](./0x0D-SQL_introduction)
 * [0x0E. SQL - More queries](./0x0E-SQL_more_queries)
+* [0x12. Javascript - Warm up](./0x12-javascript-warm_up)
+* [0x13. Javascript - Objects, Scopes and Closures](./0x13-javascript_objects_scopes_closures)
+
 
 
 
