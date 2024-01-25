@@ -1,22 +1,21 @@
 #!/usr/bin/python3
-"""find the peak in a list of unsorted integers """
+"""
+find the peek
+"""
 
 
-def find_peak(list_of_integers):
-    """ function that accepts a list and finds the peak """
-    if list_of_integers is None or list_of_integers == []:
-        return (None)
-    return (do_find_peak(list_of_integers, 0, len(list_of_integers)))
-
-
-def do_find_peak(lst, l, e):
-    """ really find the peak where the first & last index given """
-
-    m = int((l + e) / 2)
-    h = e - 1
-    if ((m == 0 or lst[m] >= lst[m - 1]) and (m == h or lst[m] >= lst[m + 1])):
-        return lst[m]
-    elif (m > 0 and lst[m - 1] > lst[m]):
-        return do_find_peak(lst, l, m - 1)
-    else:
-        return do_find_peak(lst, m + 1, e)
+def find_peak(arr):
+    """
+        find the peek
+    """
+    if arr == []:
+        return None
+    if len(arr) == 1:
+        return arr[0]
+    if arr[0] >= arr[1]:
+        return arr[0]
+    if arr[len(arr) - 1] >= arr[len(arr) - 2]:
+        return arr[len(arr) - 1]
+    for i in range(1, len(arr) - 1):
+        if arr[i] >= arr[i - 1] and arr[i] >= arr[i + 1]:
+            return arr[i]
